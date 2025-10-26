@@ -1,0 +1,18 @@
+- name: type:feat
+  color: "0E8A16"
+  description: Nueva funcionalidad
+- name: type:bug
+  color: "D73A4A"
+  description: Error o comportamiento inesperado
+- name: prio:high
+  color: "B60205"
+  description: Alta prioridad
+- name: prio:low
+  color: "E4E669"
+  description: Baja prioridad
+- name: wip
+  color: "FBCA04"
+  description: Trabajo en progreso
+- name: infra
+  color: "1D76DB"
+  description: Infraestructura o DevOps
