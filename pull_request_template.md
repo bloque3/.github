@@ -1,16 +1,17 @@
-## Descripción
+## Description
 
-Breve resumen de lo que hace este PR.
+Short summary about the PR
 
-## Tipo de cambio
+## Change type
 
-- [ ] Feature nueva
-- [ ] Fix de bug
+- [ ] new Feature
+- [ ] Bug Fix
 - [ ] Refactor
-- [ ] Otro
+- [ ] Documentation
+- [ ] Other
 
 ## Checklist
 
-- [ ] PR referencia una issue (`Closes #XX`)
-- [ ] Tests y build pasan
-- [ ] Revisado por al menos un miembro del equipo
+- [ ] PR issue reference(`Closes #XX`)
+- [ ] pass test and checks
+- [ ] Approved by a organization member
