@@ -1,30 +1,38 @@
-## Hi there 👋
+```text
+================================================================================
+  BLOQUE3 // SOFTWARE & SYSTEMS ENGINEERING
+================================================================================
+```
 
-Welcome to **BlocIII** — a software development organization focused on helping businesses go digital.
+Grupo de ingeniería enfocado en arquitectura de software, sistemas backend, aplicaciones móviles offline-first y herramientas técnicas de bajo nivel.
 
-### 💡 About Us
-We specialize in creating efficient and scalable digital solutions that transform traditional business operations into modern, technology-driven systems.  
-Our stack includes **Spring Boot**, **Angular**, **Flutter**, **PostgreSQL**, and **Power BI**, allowing us to build end-to-end products from backend to analytics.
+### Stack Principal
 
-### 🚀 What We Do
-- Develop **custom web and mobile applications**.  
-- Integrate **data-driven dashboards** for better decision-making.  
-- Modernize existing systems through **digital transformation**.  
-- Offer **consulting and support** for software architecture and deployment.
-
-### 🤝 How to Contribute
-1. Check the [issues](../../issues) section for open tasks.  
-2. Fork the repository you want to work on.  
-3. Submit a pull request following our contribution guidelines.  
-4. Join discussions and suggest improvements.
-
-### 📚 Resources
-- Organization documentation: *Coming soon*  
-- Tech stack guides and setup instructions inside each repository.  
-
-### 🧠 Our Mission
-To empower companies through technology, innovation, and data—making digital transformation accessible to all.
+| Área | Tecnologías |
+| :--- | :--- |
+| **Backend & Event-Driven** | Spring Boot (Java / WebFlux), .NET, Python (AWS SAM) |
+| **Frontend & Mobile** | Flutter (Android / Desktop), Angular |
+| **Datos & Persistencia** | PostgreSQL, SQLite / almacenamiento local |
+| **Analítica & Operaciones** | Power BI, CI/CD, Linux |
 
 ---
 
-*Built with passion for innovation and efficiency by the BlocIII team.*
+### Productos Públicos
+
+#### ByteLab (`com.bloque3.bytelab`)
+Estación de trabajo móvil offline para electrónica digital y arquitectura de computadores: simulador interactivo de compuertas lógicas (EDA), conversor multi-base hasta 64 bits, inspector IEEE-754 de punto flotante y laboratorio de ALU con banderas CCR.
+
+- Documentación pública: [bytelab/README.md](https://github.com/bloque3/.github/blob/main/bytelab/README.md)
+- Política de privacidad: [bytelab/PRIVACY_POLICY.md](https://github.com/bloque3/.github/blob/main/bytelab/PRIVACY_POLICY.md)
+
+---
+
+### Estándar de Desarrollo
+
+- Arquitectura limpia, código verificable y pruebas automatizadas en dominio e interfaz.
+- Aplicaciones diseñadas para funcionar sin dependencias innecesarias ni recolección de telemetría.
+- Documentación directa, técnica y sin adornos.
+
+---
+
+Contacto técnico y soporte: `crincones578@gmail.com`
